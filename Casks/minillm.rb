@@ -1,6 +1,6 @@
 cask "minillm" do
-  version "0.8.4"
-  sha256 "9dab3c14f27ea827b4015173aa97408181db0a3db18b351a30ed6cfd7499aebf"
+  version "0.8.5"
+  sha256 "c52b3efb416c614c3703a62ed029547e5657d0a34bb3395cd156ea00c379dfd3"
 
   url "https://github.com/priyanshu9588/homebrew-minillm/releases/download/v#{version}/MiniLLM_#{version}_aarch64.dmg",
       verified: "github.com/priyanshu9588/homebrew-minillm/"
